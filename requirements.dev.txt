@@ -1,0 +1,12 @@
+ConfigArgParse
+black
+requests
+dataset
+aiofiles
+fastapi
+fastapi-mail
+python-multipart
+pytest
+uvicorn[standard]
+python-jose[cryptography]
+passlib[bcrypt]
